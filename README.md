@@ -1,6 +1,8 @@
 BEM-Flux
 ========
 
+[![Join the chat at https://gitter.im/bem-incubator/bem-flux](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/bem-incubator/bem-flux?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Flux implementation on top of [bem-core](https://github.com/bem/bem-core/).
 
 > And what's about React?
